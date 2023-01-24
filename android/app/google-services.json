@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969982128665",
+    "project_id": "kitchensystemgraph",
+    "storage_bucket": "kitchensystemgraph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969982128665:android:16607ba4771eeeb4b07088",
+        "android_client_info": {
+          "package_name": "com.example.kitchen_graph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969982128665-fbbqhgmdlf102fo0d0plth39sr6ln28r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwL-21kPVvDzF62de4Rgp2SkZdgmcSlGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969982128665-fbbqhgmdlf102fo0d0plth39sr6ln28r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
